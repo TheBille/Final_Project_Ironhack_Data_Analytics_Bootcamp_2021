@@ -2,7 +2,6 @@
 ## How to recommend a book based on Data Analytics
 
 
-# How to recommend a bokk with Data Analytics
 *[Sybille Kiziltan]*
 
 *[data Analytics Ironhack, Berlin & 12.03.2021]*
@@ -11,59 +10,18 @@
 - [Project Description](#project-description)
 - [Questions](#hypotheses-questions)
 - [Dataset](#dataset)
-- [Model Training and Evaluation](#model-training-and-evaluation)
-- [Conclusion](#conclusion)
-- [Future Work](#future-work)
-- [Workflow](#workflow)
 
-- [Links](#links)
 
 ## Project Description
 The attempt of the project was to build an algorithm that is able to recommend books to users based on average ratings of other books in a dataset. The idea behind is to build an engine that gives users the possibilty to tell the mashine a book they like and then get a recommendation of other books that are similar to the one they already read.
 
-## Hypotheses / Questions
-Those algorithms already exist for sure. Everybody knows thos personalized recommendations of websites. Those recommendations saying "Customers who bought this Item also bought this..."
+## Buisness Use
+These algorithms already exist for sure. Everybody knows those personalized recommendations of websites. Those recommendations saying things like: "Customers who bought this Item also bought this...". 
 
 ## Dataset
-* Where did you get your data? If you downloaded a dataset (either public or private), describe where you downloaded it and include the command to load the dataset.
-* Did you build your own datset? If so, did you use an API or a web scraper? PRovide the relevant scripts in your repo.
-* For all types of datasets, provide a description of the size, complexity, and data types included in your dataset, as well as a schema of the tables if necessary.
-* If the question cannot be answered with the available data, why not? What data would you need to answer it better?
-
-## Cleaning
-Describe your full process of data wrangling and cleaning. Document why you chose to fill missing values, extract outliers, or create the variables you did as well as your reasoning behind the process.
-
-## Analysis
-* Overview the general steps you went through to analyze your data in order to test your hypothesis.
-* Document each step of your data exploration and analysis.
-* Include charts to demonstrate the effect of your work.
-* If you used Machine Learning in your final project, describe your feature selection process.
-
-## Model Training and Evaluation
-*Include this section only if you chose to include ML in your project.*
-* Describe how you trained your model, the results you obtained, and how you evaluated those results.
-
-## Conclusion
-* Summarize your results. What do they mean?
-* What can you say about your hypotheses?
-* Interpret your findings in terms of the questions you try to answer.
-
-## Future Work
-Address any questions you were unable to answer, or any next steps or future extensions to your project.
-
-## Workflow
-Outline the workflow you used in your project. What were the steps?
-How did you test the accuracy of your analysis and/or machine learning algorithm?
-
-## Organization
-How did you organize your work? Did you use any tools like a trello or kanban board?
-
-What does your repository look like? Explain your folder and file structure.
-
-## Links
-Include links to your repository, slides and trello/kanban board. Feel free to include any other links associated with your project.
+The dataset for this project is provided on Kaggle and consists of 11123 books from 6639 different authors. Additionally, it provides user rating, publisher information, the date of publication as well as the ISBN numbers and the titles.
 
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+
+
+ 
