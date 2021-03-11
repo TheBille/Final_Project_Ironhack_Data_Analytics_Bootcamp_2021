@@ -2,32 +2,27 @@
 ## How to recommend a book based on Data Analytics
 
 
-# Title of My Project
-*[Your Name]*
+# How to recommend a bokk with Data Analytics
+*[Sybille Kiziltan]*
 
-*[Your Cohort, Campus & Date]*
+*[data Analytics Ironhack, Berlin & 12.03.2021]*
 
 ## Content
 - [Project Description](#project-description)
-- [Hypotheses / Questions](#hypotheses-questions)
+- [Questions](#hypotheses-questions)
 - [Dataset](#dataset)
-- [Cleaning](#cleaning)
-- [Analysis](#analysis)
 - [Model Training and Evaluation](#model-training-and-evaluation)
 - [Conclusion](#conclusion)
 - [Future Work](#future-work)
 - [Workflow](#workflow)
-- [Organization](#organization)
+
 - [Links](#links)
 
 ## Project Description
-Write a short description of your project: 3-5 sentences about what your project is about, why you chose this topic (if relevant), and what you are trying to show.
+The attempt of the project was to build an algorithm that is able to recommend books to users based on average ratings of other books in a dataset. The idea behind is to build an engine that gives users the possibilty to tell the mashine a book they like and then get a recommendation of other books that are similar to the one they already read.
 
 ## Hypotheses / Questions
-* What data/business/research/personal question you would like to answer?
-* What is the context for the question and the possible scientific or business application?
-* What are the hypotheses you would like to test in order to answer your question?  
-Frame your hypothesis with statistical/data languages (i.e. define Null and Alternative Hypothesis). You can use formulas if you want but that is not required.
+Those algorithms already exist for sure. Everybody knows thos personalized recommendations of websites. Those recommendations saying "Customers who bought this Item also bought this..."
 
 ## Dataset
 * Where did you get your data? If you downloaded a dataset (either public or private), describe where you downloaded it and include the command to load the dataset.
