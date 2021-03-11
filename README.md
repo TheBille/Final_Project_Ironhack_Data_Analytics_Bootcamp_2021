@@ -2,9 +2,9 @@
 ## How to recommend a book based on Data Analytics
 
 
-*[Sybille Kiziltan]*
+*Sybille Kiziltan*
 
-*[data Analytics Ironhack, Berlin & 12.03.2021]*
+*Data Analytics Ironhack, Berlin & 12.03.2021*
 
 ## Content
 - [Project Description](#project-description)
